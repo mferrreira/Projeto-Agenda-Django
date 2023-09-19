@@ -18,6 +18,10 @@ git init
 # Configurar o .gitignore
 
 git add .
-git commit -m 'Mensagem'
+git commit -m 'Initial'
 git push origin main
+
+# Criar repositório no github
+
+git remote add origin URL_DO_GIT
 ```
